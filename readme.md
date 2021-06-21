@@ -1,0 +1,1 @@
+Lista de supermercado com calculadora em javascript.
